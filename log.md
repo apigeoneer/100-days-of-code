@@ -6,6 +6,6 @@
 
 2. Learned about variance, covariance & contravariance & played a bit with higher-order functions & lambdas in Kotlin. Started with a dice roller app in the Google Udacity course.
 
-**Thoughts:** Today wasn't very satisfactory. I covered some KOtlin theory, & code. Bit I'd like to be able to code more everyday. The xml part feels difficult, esp the relative positioning of views. I'm not even able to do simple things like rotating a picture & placing caption & date properly on it. I hope as I take guided approach to some apps, it'd then be easier to do things on my own:')
+**Thoughts:** Today wasn't very satisfactory. I covered some Kotlin theory, & code. But I'd like to be able to code more everyday. The xml part in Android feels difficult, esp the relative positioning of views. I'm not even able to do simple things like rotating a picture & placing caption & date properly on it. I hope as I take guided approach to some apps, it'd then be easier to do things on my own:')
 
 **Link to work:** []() *I'll try to upload the dice roller app tomorrow.
