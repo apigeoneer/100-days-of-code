@@ -9,3 +9,12 @@
 **Thoughts:** Today wasn't very satisfactory. I covered some Kotlin theory, & code. But I'd like to be able to code more everyday. The xml part in Android feels difficult, esp the relative positioning of views. I'm not even able to do simple things like rotating a picture & placing caption & date properly on it. I hope as I take guided approach to some apps, it'd then be easier to do things on my own:')
 
 **Link to work:** []() *I'll try to upload the dice roller app tomorrow.
+
+**Today's Progress**: 1. Made submissions to 2 CSES graph problems.
+ 2. Fiddled with with constraint layout & made a signin page.
+
+**Thoughts:** MOre satisfied than yesterday.
+
+**Link to work:** [cses1]()
+[cses2]()
+[2](https://github.com/apigeoneer/Android-Kotlin-Coding-Ninjas)
