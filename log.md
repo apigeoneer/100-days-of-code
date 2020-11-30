@@ -31,3 +31,10 @@
 **Link to work:** [Range Sum Queries I](https://cses.fi/paste/8232e2ec0c3dd52d140de0/)
 [Building Teams](https://cses.fi/paste/655e120b16f73ab2140684/)
 
+
+**Today's Progress:** Made a dice roller app using the knowledge of how to change text/images dynamically during run time by writing Kotlin code in the MainActivity.kt file.
+
+**Thoughts:** Kotlin code in the ActivityMain.kt file seems easier now. I think some of that might be because I took the time to learn Kotlin before starting the Udacity course. I still didn't do any CP today & hope will do more of it regularly.
+
+**Link to work:** 
+
