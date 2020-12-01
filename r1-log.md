@@ -18,5 +18,10 @@ The log of my #100DaysOfCode challenge. Started on [Nov 27, Friday, 2020].
 Tried Range Sum Queries I. Getting run-time error. I think I'm not taking the input the right way.
 Levelled up the login app to make it look like the PhonePe app's login. The "Welcome " isn't showing on the phone. Can't figure out why.
 
-### R1D3
+### R1D4
 Made a dice roller app using the knowledge of how to change text/images dynamically during run time through the Kotlin code in the MainActivity.kt file.
+
+### R1D5
+Today was occupied with MainActivity.kt & trying to understand & implement data binding. Made a Wikipedia page clone & used data binding, & tried to add hyperlink. Idk why that isn't working tho.
+
+
