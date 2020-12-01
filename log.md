@@ -38,3 +38,9 @@
 
 **Link to work:** 
 
+**Today's Progress:** Today was occupied with MainActivity.kt & trying to understand & implement data binding. Made a Wikipedia page clone & used data binding, & tried to add hyperlink. Idk why that isn't working tho.
+
+**Thoughts:** Not very satisfactory. I hope I finish data binding tomorrow, along with some more solid concepts.
+
+**Link to work:** (Wki page) [https://github.com/apigeoneer/Udacity-Android-Kotlin-Nanodegree-projects/tree/main/layout]
+
