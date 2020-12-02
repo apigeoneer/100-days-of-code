@@ -44,3 +44,11 @@
 
 **Link to work:** (Wki page) [https://github.com/apigeoneer/Udacity-Android-Kotlin-Nanodegree-projects/tree/main/layout]
 
+**Today's Progress:** Gave the Coding Ninjas Test (Internship/Job) 2.0's round 2. Learned about Bezout's Theorem by solving a problem that appeared in the test, along with 2 other graph problems, one full the other partially. Coudldn't solve the last problem based on Generic Tree.
+
+**Thoughts:** Nothing much. Periods. I took the later half of the day off.
+
+**Link to work:** (Ninja Hire 2.0 Round 2)[https://classroom.codingninjas.com/app/classroom/me/6246/content/83675/offering/920335/problem/8578]
+
+
+
