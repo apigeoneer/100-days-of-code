@@ -45,7 +45,7 @@
 
 **Thoughts:** Not very satisfactory. I hope I finish data binding tomorrow, along with some more solid concepts.
 
-**Link to work:** [Wki page] (https://github.com/apigeoneer/Udacity-Android-Kotlin-Nanodegree-projects/tree/main/layout)
+**Link to work:** [Wki page](https://github.com/apigeoneer/Udacity-Android-Kotlin-Nanodegree-projects/tree/main/layout)
 
 ### Day 2: Dec 2, 2020
 
