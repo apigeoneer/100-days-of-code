@@ -24,4 +24,7 @@ Made a dice roller app using the knowledge of how to change text/images dynamica
 ### R1D5
 Today was occupied with MainActivity.kt & trying to understand & implement data binding. Made a Wikipedia page clone & used data binding, & tried to add hyperlink. Idk why that isn't working tho.
 
+### R1D6
+Gave the Coding Ninjas Test (Internship/Job) 2.0's round 2. Learned about Bezout's Theorem by solving a problem that appeared in the test, along with 2 other graph problems, one full the other partially. Coudldn't solve the last problem based on Generic Tree.
+
 
