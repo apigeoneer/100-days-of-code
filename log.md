@@ -31,7 +31,7 @@
 **Link to work:** [Range Sum Queries I](https://cses.fi/paste/8232e2ec0c3dd52d140de0/)
 [Building Teams](https://cses.fi/paste/655e120b16f73ab2140684/)
 
-### Day 2: Nov 30, 2020
+### Day 4: Nov 30, 2020
 
 **Today's Progress:** Made a dice roller app using the knowledge of how to change text/images dynamically during run time by writing Kotlin code in the MainActivity.kt file.
 
@@ -39,7 +39,7 @@
 
 **Link to work:** 
 
-### Day 2: Dec 1, 2020
+### Day 5: Dec 1, 2020
 
 **Today's Progress:** Today was occupied with MainActivity.kt & trying to understand & implement data binding. Made a Wikipedia page clone & used data binding, & tried to add hyperlink. Idk why that isn't working tho.
 
@@ -47,13 +47,24 @@
 
 **Link to work:** [Wiki page](https://github.com/apigeoneer/Udacity-Android-Kotlin-Nanodegree-projects/tree/main/layout)
 
-### Day 2: Dec 2, 2020
+### Day 6: Dec 2, 2020
 
 **Today's Progress:** Gave the Coding Ninjas Test (Internship/Job) 2.0's round 2. Learned about Bezout's Theorem by solving a problem that appeared in the test, along with 2 other graph problems, one full the other partially. Coudldn't solve the last problem based on Generic Tree.
 
 **Thoughts:** Nothing much. Periods. I took the later half of the day off.
 
 **Link to work:** [Ninja Hire 2.0 Round 2](https://classroom.codingninjas.com/app/classroom/me/6246/content/83675/offering/920335/problem/8578)
+
+### Day 7: Dec 2, 2020
+
+**Today's Progress:** Built a ColorMyView app, using knowledge of constraint layout & Kotlin code. Worked on a multi source bfs graph problem. Didn't complete.
+
+**Thoughts:** Not v productive, but okay (Goddd I need a break. & see my friend from college!!!).
+
+**Link to work:** [cOLORmYvIEW APP](https://github.com/apigeoneer/Udacity-Android-Kotlin-Nanodegree-projects/tree/main/layout)
+
+
+
 
 
 
