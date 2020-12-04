@@ -31,6 +31,14 @@
 **Link to work:** [Range Sum Queries I](https://cses.fi/paste/8232e2ec0c3dd52d140de0/)
 [Building Teams](https://cses.fi/paste/655e120b16f73ab2140684/)
 
+### Day 8: Dec 5, 2020
+
+**Today's Progress:** worked on a trivia app, implemented navigation - switching between fragments
+
+**Thoughts:** not satisfied, but okay
+
+**Link to work:** 
+
 ### Day 4: Nov 30, 2020
 
 **Today's Progress:** Made a dice roller app using the knowledge of how to change text/images dynamically during run time by writing Kotlin code in the MainActivity.kt file.
