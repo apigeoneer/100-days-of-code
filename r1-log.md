@@ -33,4 +33,7 @@ Built a ColorMyView app, using knowledge of constraint layout & Kotlin code.
 ### R1D8
 worked on a trivia app, implemented navigation - switching between fragments
 
+### R1D9
+worked on a trivia app, implemented more navigation changes. Started off with Codedamn accelerated WebDev corse of 1 month.
+
 
