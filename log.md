@@ -63,7 +63,7 @@
 
 **Link to work:** [cOLORmYvIEW APP](https://github.com/apigeoneer/Udacity-Android-Kotlin-Nanodegree-projects/tree/main/layout)
 
-### Day 8: Dec 5, 2020
+### Day 8: Dec 4, 2020
 
 **Today's Progress:** worked on a trivia app, implemented navigation - switching between fragments
 
@@ -71,6 +71,10 @@
 
 **Link to work:** 
 
+### Day 9: Dec 5, 2020
 
+**Today's Progress:** worked on a trivia app, implemented more navigation changes. Started off with Codedamn accelerated WebDev corse of 1 month.
 
+**Thoughts:** better than yesterday, still no CP tho
 
+**Link to work:** [trivia app](https://github.com/apigeoneer/Udacity-Android-Kotlin-Nanodegree-projects/tree/main/app%20navigation/trivia%20app)
