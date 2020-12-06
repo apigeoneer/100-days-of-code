@@ -30,6 +30,9 @@ Gave the Coding Ninjas Test (Internship/Job) 2.0's round 2. Learned about Bezout
 ### R1D7
 Built a ColorMyView app, using knowledge of constraint layout & Kotlin code.
 
+### R1D9
+Solved first 2 problems of Codechef Dec long. Started off with Room & DBMS for Android
+
 ### R1D8
 worked on a trivia app, implemented navigation - switching between fragments
 
