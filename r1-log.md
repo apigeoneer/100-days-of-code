@@ -39,4 +39,8 @@ worked on a trivia app, implemented navigation - switching between fragments
 ### R1D9
 worked on a trivia app, implemented more navigation changes. Started off with Codedamn accelerated WebDev corse of 1 month.
 
+### R1D10
+Solved 2 introductory problems in CSES Problem Set. Started a #tbbt  Mania app, inspired by #Udacity's #Android #Kotlin #Nanodegree's Trivia app (a quiz app). Created layout of its GameFragment. Was stuck trying to add navigation to the fragments.
+
+
 
