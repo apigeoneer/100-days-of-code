@@ -80,10 +80,19 @@
 **Link to work:** [trivia app](https://github.com/apigeoneer/Udacity-Android-Kotlin-Nanodegree-projects/tree/main/app%20navigation/trivia%20app)
 
 
-### Day 9: Dec 5, 2020
+### Day 9: Dec 6, 2020
 
 **Today's Progress:** Solved first 2 problems of Codechef Dec long. Started off with Room & DBMS for Android
 
 **Thoughts:** okay some improvement w/ cp at least
 
 **Link to work:** ..
+
+### Day 10: Dec 7, 2020
+
+
+**Today's Progress:** Solved 2 introductory problems in CSES Problem Set. Started a #tbbt  Mania app, inspired by #Udacity's #Android #Kotlin #Nanodegree's Trivia app (a quiz app). Created layout of its GameFragment. Was stuck trying to add navigation to the fragments.
+
+**Thoughts:** not much. i made the csec paper presentation today.
+
+**Link to work:**
