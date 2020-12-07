@@ -95,4 +95,4 @@
 
 **Thoughts:** not much. i made the csec paper presentation today.
 
-**Link to work:**
+**Link to work:** [Increasing Array](https://github.com/apigeoneer/CSES-Submissions/blob/main/Increasing_Array.cpp), [Permutations](https://github.com/apigeoneer/CSES-Submissions/blob/main/Permutations.cpp)
