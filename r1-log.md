@@ -42,5 +42,8 @@ worked on a trivia app, implemented more navigation changes. Started off with Co
 ### R1D10
 Solved 2 introductory problems in CSES Problem Set. Started a #tbbt  Mania app, inspired by #Udacity's #Android #Kotlin #Nanodegree's Trivia app (a quiz app). Created layout of its GameFragment. Was stuck trying to add navigation to the fragments.
 
+### R1D11
+Added a drawer menu to a new #F1 app I started working on. The Toolbar variable in the MainActivity is taking a toll on me. Idk what's wrong with it. Kindly share suggestions, if any.
+
 
 
