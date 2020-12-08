@@ -96,3 +96,13 @@
 **Thoughts:** not much. i made the csec paper presentation today.
 
 **Link to work:** [Increasing Array](https://github.com/apigeoneer/CSES-Submissions/blob/main/Increasing_Array.cpp), [Permutations](https://github.com/apigeoneer/CSES-Submissions/blob/main/Permutations.cpp)
+
+
+### Day 11: Dec 8, 2020
+
+
+**Today's Progress:** Added a drawer menu to a new #F1 app I started working on. The Toolbar variable in the MainActivity is taking a toll on me. Idk what's wrong with it. Kindly share suggestions, if any.
+
+**Thoughts:** I'm lagging behind in Codedamn's accelerated course.
+
+**Link to work:**
