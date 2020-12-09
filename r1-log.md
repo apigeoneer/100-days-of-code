@@ -45,5 +45,8 @@ Solved 2 introductory problems in CSES Problem Set. Started a #tbbt  Mania app, 
 ### R1D11
 Added a drawer menu to a new #F1 app I started working on. The Toolbar variable in the MainActivity is taking a toll on me. Idk what's wrong with it. Kindly share suggestions, if any.
 
+###R1D12
+Added few more elements to the drawer menu, & animations to the entry & exit of fragments in the app. Brushed up HTML & CSS fundamentals by practicing on Codedamn. 
+
 
 
