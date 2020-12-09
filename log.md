@@ -106,3 +106,13 @@
 **Thoughts:** I'm lagging behind in Codedamn's accelerated course.
 
 **Link to work:**
+
+
+### Day 12: Dec 9, 2020
+
+
+**Today's Progress:** Added few more elements to the drawer menu, & animations to the entry & exit of fragments in the app. Brushed up HTML & CSS fundamentals by practicing on Codedamn. 
+
+**Thoughts:** I'm too distracted for this. Idlk why but there's more to life than code.
+
+**Link to work:** Tomorrow maybe. Connection Android w/ Github is taking a toll on me.
