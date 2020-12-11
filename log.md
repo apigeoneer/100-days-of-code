@@ -108,7 +108,7 @@
 **Link to work:**
 
 
-### Day 12: Dec 9, 2020
+### Day 12: Dec 10, 2020
 
 
 **Today's Progress:** Added few more elements to the drawer menu, & animations to the entry & exit of fragments in the app. Brushed up HTML & CSS fundamentals by practicing on Codedamn. 
@@ -116,3 +116,17 @@
 **Thoughts:** I'm too distracted for this. Idlk why but there's more to life than code.
 
 **Link to work:** Tomorrow maybe. Connection Android w/ Github is taking a toll on me.
+
+### Day 13: Dec 11, 2020
+
+---skipped---
+
+
+### Day 14: Dec 12, 2020
+
+
+**Today's Progress:** Attempted a graph problem, & 2 #ProjectEuler's problems today. Was able to solve only 1 out of 3: Multiples of 3 and 5.
+
+**Thoughts:** was on anshan today. didn't have any meals, also paper presentayion tomorrow. i hope i can focus more on my work & complete the daily things despite well, life.
+
+**Link to work:** [multiples_of_3_and_5](https://github.com/apigeoneer/Euler-s-Project/blob/main/1_multiples_of_3_and_5.cpp)
