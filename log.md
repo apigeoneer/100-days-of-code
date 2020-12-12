@@ -130,3 +130,11 @@
 **Thoughts:** was on anshan today. didn't have any meals, also paper presentayion tomorrow. i hope i can focus more on my work & complete the daily things despite well, life.
 
 **Link to work:** [multiples_of_3_and_5](https://github.com/apigeoneer/Euler-s-Project/blob/main/1_multiples_of_3_and_5.cpp)
+
+
+### Day 14: Dec 12, 2020
+
+
+**Today's Progress:** Attempted 3 dp problems on Leetcode, could solve only 1. Brushed up #css fundamentals.
+
+
