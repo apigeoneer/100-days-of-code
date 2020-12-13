@@ -56,3 +56,8 @@ Attempted a graph problem, & 2 #ProjectEuler's problems today. Was able to solve
 
 ###R1D15
 Attempted 3 dp problems on Leetcode, could solve only 1. Brushed up #css fundamentals.
+
+###R1D16
+Worked with the Timber API in the Desert Pusher app.
+Solved a few variations of the 0/1 & unbounded knapsack problem.
+Brushed up #FlexBox fundamentals on #Codedamn. Started making a Google Homepage clone.
