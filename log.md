@@ -138,3 +138,12 @@
 **Today's Progress:** Attempted 3 dp problems on Leetcode, could solve only 1. Brushed up #css fundamentals.
 
 
+
+### Day 16: Dec 14, 2020
+
+
+**Today's Progress:** Worked with the Timber API in the Desert Pusher app.
+Solved a few variations of the 0/1 & unbounded knapsack problem.
+Brushed up #FlexBox fundamentals on #Codedamn. Started making a Google Homepage clone.
+
+
