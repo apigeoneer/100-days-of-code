@@ -132,18 +132,23 @@
 **Link to work:** [multiples_of_3_and_5](https://github.com/apigeoneer/Euler-s-Project/blob/main/1_multiples_of_3_and_5.cpp)
 
 
-### Day 14: Dec 12, 2020
-
+### Day 15: Dec 13, 2020
 
 **Today's Progress:** Attempted 3 dp problems on Leetcode, could solve only 1. Brushed up #css fundamentals.
 
+**Thoughts:** Not v satisfied
+
+**Link to work:** --
 
 
 ### Day 16: Dec 14, 2020
 
-
 **Today's Progress:** Worked with the Timber API in the Desert Pusher app.
 Solved a few variations of the 0/1 & unbounded knapsack problem.
 Brushed up #FlexBox fundamentals on #Codedamn. Started making a Google Homepage clone.
+
+**Thoughts:** I think I should start my day early & with CP & end it with Web Development. I find it diificult to do CP on low energy.
+
+**Link to work:** --
 
 
