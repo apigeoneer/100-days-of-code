@@ -152,3 +152,12 @@ Brushed up #FlexBox fundamentals on #Codedamn. Started making a Google Homepage 
 **Link to work:** --
 
 
+### Day 17: Dec 15, 2020
+
+**Today's Progress:**
+Attempted few Coin Combination problems in dp. Honestly, I feel more confused now than when I had started.
+Brushed up #javascript & #CSS on #Codedamn.
+Implemented Lifecycle Library & data restoring after a configuration change. Didn't understand most of it.
+#100DaysOfCode
+
+
