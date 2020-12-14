@@ -158,6 +158,8 @@ Brushed up #FlexBox fundamentals on #Codedamn. Started making a Google Homepage 
 Attempted few Coin Combination problems in dp. Honestly, I feel more confused now than when I had started.
 Brushed up #javascript & #CSS on #Codedamn.
 Implemented Lifecycle Library & data restoring after a configuration change. Didn't understand most of it.
-#100DaysOfCode
 
+**Thoughts:** not bad
+
+**Link to work:** [Coin Combinations II](https://github.com/apigeoneer/CSES-Submissions/blob/main/Dynamic%20Programming/Coin_Combinations_II.cpp)
 
