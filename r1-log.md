@@ -61,3 +61,8 @@ Attempted 3 dp problems on Leetcode, could solve only 1. Brushed up #css fundame
 Worked with the Timber API in the Desert Pusher app.
 Solved a few variations of the 0/1 & unbounded knapsack problem.
 Brushed up #FlexBox fundamentals on #Codedamn. Started making a Google Homepage clone.
+
+### R1D17
+Attempted few Coin Combination problems in dp. Honestly, I feel more confused now than when I had started.
+Brushed up #javascript & #CSS on #Codedamn.
+Implemented Lifecycle Library & data restoring after a configuration change. Didn't understand most of it.
