@@ -154,12 +154,21 @@ Brushed up #FlexBox fundamentals on #Codedamn. Started making a Google Homepage 
 
 ### Day 17: Dec 15, 2020
 
-**Today's Progress:**
-Attempted few Coin Combination problems in dp. Honestly, I feel more confused now than when I had started.
+**Today's Progress:** Attempted few Coin Combination problems in dp. Honestly, I feel more confused now than when I had started.
 Brushed up #javascript & #CSS on #Codedamn.
 Implemented Lifecycle Library & data restoring after a configuration change. Didn't understand most of it.
 
 **Thoughts:** not bad
 
 **Link to work:** [Coin Combinations II](https://github.com/apigeoneer/CSES-Submissions/blob/main/Dynamic%20Programming/Coin_Combinations_II.cpp)
+
+### Day 18: Dec 16, 2020
+
+**Today's Progress:** Attempted another coin problem in dp today. No surprise it hit me in the head.
+Brushed up on JavaScript.
+Implemented MVVM Architecture to the 'guess it' app in #Udacity's #Android #Kotlin #Nanodegree course.
+
+**Thoughts:** not bad
+
+**Link to work:** --
 
