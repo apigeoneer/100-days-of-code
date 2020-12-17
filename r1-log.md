@@ -74,3 +74,7 @@ Implemented MVVM Architecture to the 'guess it' app in #Udacity's #Android #Kotl
 
 ### R1D19
 Implemented Live Data in the 'guess it' app today. Started with the Shoe Inventory app. Here are app requirements: https://review.udacity.com/#!/rubrics/2849/view Started with the Login fragment, created its xml layout (well, not fully).
+
+### R1D20
+Worked more with LiveData. I should be done with the 'guess it' app tonight.
+Brushed up on JavaScript on Codedamn.
