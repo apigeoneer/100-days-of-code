@@ -193,3 +193,10 @@ Brushed up on JavaScript on Codedamn.
 
 **Link to work:** --
 
+
+### Day 21: Dec 19, 2020
+
+**Today's Progress:** Started with a Memory game from 
+@rpandey1234
+. 
+https://youtube.com/watch?v=C2DBDZKkLss
