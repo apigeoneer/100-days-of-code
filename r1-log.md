@@ -78,3 +78,7 @@ Implemented Live Data in the 'guess it' app today. Started with the Shoe Invento
 ### R1D20
 Worked more with LiveData. I should be done with the 'guess it' app tonight.
 Brushed up on JavaScript on Codedamn.
+
+### R1D21
+Started with a Memory game from @rpandey1234. 
+https://www.youtube.com/watch?v=C2DBDZKkLss
