@@ -200,3 +200,12 @@ Brushed up on JavaScript on Codedamn.
 @rpandey1234
 . 
 https://youtube.com/watch?v=C2DBDZKkLss
+
+### Day 22: Dec 20, 2020
+
+**Today's Progress:** Added the memory card & game classes in the Memory App. Revised the previous concepts of RecyclerView by building a BookList app, which is crashing for now.
+
+**Thoughts:** I need to get in pace with the Coding Ninja couses. Can't miss any more modules!! Also, let's complete the Memory app this week, along with the Shoe Inventory app.
+
+**Link to work:** --
+
