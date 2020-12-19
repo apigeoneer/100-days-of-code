@@ -82,3 +82,6 @@ Brushed up on JavaScript on Codedamn.
 ### R1D21
 Started with a Memory game from @rpandey1234. 
 https://www.youtube.com/watch?v=C2DBDZKkLss
+
+### R1D22
+Added the memory card & game classes in the Memory App. Revised the previous concepts of RecyclerView by building a BookList app, which is crashing for now.
