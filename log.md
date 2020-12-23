@@ -182,6 +182,15 @@ Started with the Login fragment, created its xml layout (well, not fully). Brush
 
 **Link to work:** --
 
+### Day 23: Dec 23, 2020
+
+**Today's Progress:** Practiced CSS & Javascript on Codedamn.
+
+**Thoughts:** okayish
+
+**Link to work:** --
+
+
 
 
 ### Day 20: Dec 18, 2020
