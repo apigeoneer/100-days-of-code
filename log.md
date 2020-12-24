@@ -210,7 +210,7 @@ Brushed up on JavaScript on Codedamn.
 . 
 https://youtube.com/watch?v=C2DBDZKkLss
 
-### Day 22: Dec 20, 2020
+### Day 22: Dec 23, 2020
 
 **Today's Progress:** Added the memory card & game classes in the Memory App. Revised the previous concepts of RecyclerView by building a BookList app, which is crashing for now.
 
@@ -218,3 +218,10 @@ https://youtube.com/watch?v=C2DBDZKkLss
 
 **Link to work:** --
 
+### Day 24: Dec 24, 2020
+
+**Today's Progress:** Implemented Room Database & DAO in the #Udacity #Google's #Nanodegree #Android #Kotlin 'Track My Sleep Quality' app.
+
+**Thoughts:** I'm try to work more at night.
+
+**Link to work:** --
