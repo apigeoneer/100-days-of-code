@@ -88,5 +88,8 @@ Added the memory card & game classes in the Memory App. Revised the previous con
 
 --not sub 3 days
 
-### R1D26
+### R1D23
 Practiced CSS & Javascript on Codedamn.
+
+### R1D24
+Implemented Room Database & DAO in the #Udacity #Google's #Nanodegree #Android #Kotlin 'Track My Sleep Quality'
