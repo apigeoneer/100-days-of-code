@@ -93,3 +93,6 @@ Practiced CSS & Javascript on Codedamn.
 
 ### R1D24
 Implemented Room Database & DAO in the #Udacity #Google's #Nanodegree #Android #Kotlin 'Track My Sleep Quality'
+
+### R1D25
+Implemented Multithreading, Coroutines in the #Udacity #Google's #Nanodegree #Android #Kotlin 'Track My Sleep Quality' app.
