@@ -218,6 +218,7 @@ https://youtube.com/watch?v=C2DBDZKkLss
 
 **Link to work:** --
 
+
 ### Day 24: Dec 24, 2020
 
 **Today's Progress:** Implemented Room Database & DAO in the #Udacity #Google's #Nanodegree #Android #Kotlin 'Track My Sleep Quality' app.
@@ -225,3 +226,13 @@ https://youtube.com/watch?v=C2DBDZKkLss
 **Thoughts:** I'm try to work more at night.
 
 **Link to work:** --
+
+
+### Day 25: Dec 25, 2020
+
+**Today's Progress:** Implemented Multithreading, Coroutines in the #Udacity #Google's #Nanodegree #Android #Kotlin 'Track My Sleep Quality' app.
+
+**Thoughts:** I'm try to work more at night.
+
+**Link to work:** --
+
