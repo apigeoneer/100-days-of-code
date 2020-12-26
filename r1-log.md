@@ -96,3 +96,7 @@ Implemented Room Database & DAO in the #Udacity #Google's #Nanodegree #Android #
 
 ### R1D25
 Implemented Multithreading, Coroutines in the #Udacity #Google's #Nanodegree #Android #Kotlin 'Track My Sleep Quality' app.
+
+
+### R1D26
+Moved forward with the Memory app. Got stuck at an ArrayOutOfBounds error. Kindly suggest a way out.
