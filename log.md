@@ -223,7 +223,7 @@ https://youtube.com/watch?v=C2DBDZKkLss
 
 **Today's Progress:** Implemented Room Database & DAO in the #Udacity #Google's #Nanodegree #Android #Kotlin 'Track My Sleep Quality' app.
 
-**Thoughts:** I'm try to work more at night.
+**Thoughts:** I'm trying to work more at night.
 
 **Link to work:** --
 
@@ -232,7 +232,15 @@ https://youtube.com/watch?v=C2DBDZKkLss
 
 **Today's Progress:** Implemented Multithreading, Coroutines in the #Udacity #Google's #Nanodegree #Android #Kotlin 'Track My Sleep Quality' app.
 
-**Thoughts:** I'm try to work more at night.
+**Thoughts:** I'm trying to work more at night.
 
 **Link to work:** --
 
+
+### Day 26: Dec 26, 2020
+
+**Today's Progress:** Moved forward with the Memory app. Got stuck at an ArrayOutOfBounds error. Kindly suggest a way out.
+
+**Thoughts:** I'm try to work more at night but to no avail.
+
+**Link to work:** --
