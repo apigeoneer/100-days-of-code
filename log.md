@@ -244,3 +244,13 @@ https://youtube.com/watch?v=C2DBDZKkLss
 **Thoughts:** I'm try to work more at night but to no avail.
 
 **Link to work:** --
+
+
+### Day 27: Dec 27, 2020
+
+**Today's Progress:** Implemented observable state variables in the 'Sleep Tracker ' app & started with RecyclerView in #Udacity #Android #Nanodegree.
+
+**Thoughts:** IInstalled the Boosted app for productivity. It's nice.
+
+**Link to work:** --
+Implemented some logic in the Memory Game.
