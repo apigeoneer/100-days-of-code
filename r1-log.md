@@ -100,3 +100,7 @@ Implemented Multithreading, Coroutines in the #Udacity #Google's #Nanodegree #An
 
 ### R1D26
 Moved forward with the Memory app. Got stuck at an ArrayOutOfBounds error. Kindly suggest a way out.
+
+### R1D27
+Implemented observable state variables in the 'Sleep Tracker ' app & started with RecyclerView in #Udacity #Android #Nanodegree.
+Implemented some logic in the Memory Game.
