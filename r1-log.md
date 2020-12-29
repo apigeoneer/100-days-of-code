@@ -104,3 +104,9 @@ Moved forward with the Memory app. Got stuck at an ArrayOutOfBounds error. Kindl
 ### R1D27
 Implemented observable state variables in the 'Sleep Tracker ' app & started with RecyclerView in #Udacity #Android #Nanodegree.
 Implemented some logic in the Memory Game.
+
+### R1D28
+Refactored different methods of the RecyclerView.Adapter. Didn't really undersatnd a lot.
+
+### R1D29
+Started an app based on simple user authorization using #Firebase Fire. Should be able to complete it by tonight.
