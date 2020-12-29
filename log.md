@@ -248,9 +248,26 @@ https://youtube.com/watch?v=C2DBDZKkLss
 
 ### Day 27: Dec 27, 2020
 
-**Today's Progress:** Implemented observable state variables in the 'Sleep Tracker ' app & started with RecyclerView in #Udacity #Android #Nanodegree.
+**Today's Progress:** Implemented observable state variables in the 'Sleep Tracker ' app & started with RecyclerView in #Udacity #Android #Nanodegree. Implemented some logic in the Memory Game.
 
-**Thoughts:** IInstalled the Boosted app for productivity. It's nice.
+**Thoughts:** Installed the Boosted app for productivity. It's nice.
 
 **Link to work:** --
-Implemented some logic in the Memory Game.
+
+
+### Day 28: Dec 28, 2020
+
+**Today's Progress:** Refactored different methods of the RecyclerView.Adapter. Didn't really undersatnd a lot.
+
+**Thoughts:** Slept early today. Couldn't commit / tweet.
+
+**Link to work:** --
+
+### Day 29: Dec 29, 2020
+
+**Today's Progress:** Started an app based on simple user authorization using #Firebase Fire. Should be able to complete it by tonight.
+
+**Thoughts:** Today wasn't v productive. Sibmitted a few proposals on Upwork.
+
+**Link to work:** --
+
