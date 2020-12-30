@@ -110,3 +110,6 @@ Refactored different methods of the RecyclerView.Adapter. Didn't really undersat
 
 ### R1D29
 Started an app based on simple user authorization using #Firebase Fire. Should be able to complete it by tonight.
+
+### R1D30
+Couldn.t complete the User Authentication app. The Firebase code will take some more time to figure out.
