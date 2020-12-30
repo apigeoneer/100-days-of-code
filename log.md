@@ -271,3 +271,12 @@ https://youtube.com/watch?v=C2DBDZKkLss
 
 **Link to work:** --
 
+
+### Day 30: Dec 30, 2020
+
+**Today's Progress:** Couldn.t complete the User Authentication app. The Firebase code will take some more time to figure out.
+
+**Thoughts:** Not v productive
+
+**Link to work:** --
+
