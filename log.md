@@ -280,3 +280,13 @@ https://youtube.com/watch?v=C2DBDZKkLss
 
 **Link to work:** --
 
+******************* Skipped Dec, 31, 2020 **************************
+
+### Day 31: Jan 1, 2021
+
+**Today's Progress:** * Still not done with the User Authentication app (REGISTER part is done. something's going wrong when trying to LOGIN).
+* Added some changes along with menu options to the "My Memory" app. 
+
+**Thoughts:** Not bad
+
+**Link to work:** --
