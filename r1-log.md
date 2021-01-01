@@ -113,3 +113,7 @@ Started an app based on simple user authorization using #Firebase Fire. Should b
 
 ### R1D30
 Couldn.t complete the User Authentication app. The Firebase code will take some more time to figure out.
+
+### R1D31
+* Still not done with the User Authentication app (REGISTER part is done. something's going wrong when trying to LOGIN).
+* Added some changes along with menu options to the "My Memory" app. 
