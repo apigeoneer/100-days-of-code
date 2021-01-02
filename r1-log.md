@@ -117,3 +117,6 @@ Couldn.t complete the User Authentication app. The Firebase code will take some 
 ### R1D31
 * Still not done with the User Authentication app (REGISTER part is done. something's going wrong when trying to LOGIN).
 * Added some changes along with menu options to the "My Memory" app. 
+
+### R1D32
+Built the image grid for a custom game & added image intent to the Memory Game.
