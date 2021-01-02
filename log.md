@@ -290,3 +290,13 @@ https://youtube.com/watch?v=C2DBDZKkLss
 **Thoughts:** Not bad
 
 **Link to work:** --
+
+
+
+### Day 32: Jan 2, 2021
+
+**Today's Progress:** Built the image grid for a custom game & added image intent to the Memory Game.
+
+**Thoughts:** Okayish
+
+**Link to work:** --
