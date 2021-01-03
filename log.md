@@ -300,3 +300,13 @@ https://youtube.com/watch?v=C2DBDZKkLss
 **Thoughts:** Okayish
 
 **Link to work:** --
+
+
+
+### Day 33: Jan 3, 2021
+
+**Today's Progress:** Moved on with the Memory app by preparing for the image upload to Firebase storage. Learned some git (I'm fairly new to it:) )
+
+**Thoughts:** Okayish
+
+**Link to work:** --
