@@ -120,3 +120,6 @@ Couldn.t complete the User Authentication app. The Firebase code will take some 
 
 ### R1D32
 Built the image grid for a custom game & added image intent to the Memory Game.
+
+### R1D33
+Moved on with the Memory app by preparing for the image upload to Firebase storage. Learned some git (I'm fairly new to it:) )
