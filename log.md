@@ -310,3 +310,14 @@ https://youtube.com/watch?v=C2DBDZKkLss
 **Thoughts:** Okayish
 
 **Link to work:** --
+
+***************** missed Jan 4, 5, 6 **************************
+
+### Day 34: Jan 7, 2021
+
+**Today's Progress:** Implemented #Retrofit, #Misho, & Retrofit with coroutines 
+
+**Thoughts:** Okayish
+
+**Link to work:** --
+in the 'Mars Real Estate' app in #Udacity's #Androi #Kotlin #Nanodegree course.
