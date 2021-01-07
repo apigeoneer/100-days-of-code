@@ -123,3 +123,7 @@ Built the image grid for a custom game & added image intent to the Memory Game.
 
 ### R1D33
 Moved on with the Memory app by preparing for the image upload to Firebase storage. Learned some git (I'm fairly new to it:) )
+
+### R1D33
+Implemented #Retrofit, #Misho, & Retrofit with coroutines 
+in the 'Mars Real Estate' app in #Udacity's #Androi #Kotlin #Nanodegree course.
